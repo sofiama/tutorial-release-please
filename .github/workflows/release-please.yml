@@ -10,7 +10,6 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: simple
-          package-name: release-please-action
           changelog-types: >
             [
               { "type": "build", "section": "Build System", "hidden": false },
