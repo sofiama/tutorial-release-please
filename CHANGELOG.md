@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/sofiama/tutorial-release-please/compare/v1.0.0...v1.0.1) (2022-09-01)
+
+
+### Documentation
+
+* **readme:** add/update links ([59264b3](https://github.com/sofiama/tutorial-release-please/commit/59264b348bcda523dbe50e0d3577b6605bbf9997))
+
 ## 1.0.0 (2022-08-31)
 
 
